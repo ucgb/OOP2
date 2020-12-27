@@ -2,5 +2,6 @@
 # Maulana Yusuf (17090096)
 # 5B
 
-# Bara Phobia Irvanda (18090035)
-# 5B
+# CRUD Aplikasi Elektronik menggunakan SQL Lite sebagai database nya
+
+# coding terbaru ada di branch news
